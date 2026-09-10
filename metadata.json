@@ -1,0 +1,6 @@
+{
+  "name": "BattleZone X - Gaming Tournaments",
+  "description": "Battle Royale Tournament Platform featuring matches, live streams, player stats, wallet, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
